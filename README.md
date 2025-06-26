@@ -67,11 +67,12 @@ Perform a vulnerability scan on a local Windows machine using **Nessus Essential
 
 ## 📸 Screenshots
 
-> *(Add screenshots from your Nessus dashboard/report here)*
-
-- ![img](https://github.com/Amish-C-K/Elevate-Labs--task3/blob/main/images/t3-1.png)
-- ![img](https://github.com/Amish-C-K/Elevate-Labs--task3/blob/main/images/t3-1.png)
-- ![img](https://github.com/Amish-C-K/Elevate-Labs--task3/blob/main/images/t3-1.png)
+> *(creating a scan)*
+- ![img](https://github.com/Amish-C-K/Elevate-Labs--task3/blob/main/images/t3-3.png)
+> *(scanning the target)*
+- ![img](https://github.com/Amish-C-K/Elevate-Labs--task3/blob/main/images/t3-4.png)
+  > *(scan report)*
+- ![img](https://github.com/Amish-C-K/Elevate-Labs--task3/blob/main/images/t3-5.png)
 
 ---
 
@@ -79,9 +80,9 @@ Perform a vulnerability scan on a local Windows machine using **Nessus Essential
 
 | File                   | Description                        |
 |------------------------|------------------------------------|
-| `report.pdf`           | Full Nessus scan result            |
+| `report.html`           | Full Nessus scan result            |
 | `README.md`            | Report summary (this file)         |
-| `screenshots/`         | Screenshots from Nessus Web UI     |
+| `images/`         | Screenshots from Nessus Web UI     |
 
 ---
 
