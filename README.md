@@ -9,7 +9,7 @@ Perform a vulnerability scan on a local Windows machine using **Nessus Essential
 
 - **Scanner**: Tenable Nessus Essentials
 - **Target**: 127.0.0.1 (localhost)
-- **Host OS**: Windows 10
+- **Host OS**: Windows 11
 - **Scan Date**: 26 June 2025
 - **Nessus Version**: Essentials Free Edition
 
@@ -69,9 +69,9 @@ Perform a vulnerability scan on a local Windows machine using **Nessus Essential
 
 > *(Add screenshots from your Nessus dashboard/report here)*
 
-- ![Scan Summary](screenshots/summary.png)
-- ![SSL Cert Warning](screenshots/ssl_cert_warning.png)
-- ![SMB Signing](screenshots/smb_signing.png)
+- ![img](https://github.com/Amish-C-K/Elevate-Labs--task3/blob/main/images/t3-1.png)
+- ![img](https://github.com/Amish-C-K/Elevate-Labs--task3/blob/main/images/t3-1.png)
+- ![img](https://github.com/Amish-C-K/Elevate-Labs--task3/blob/main/images/t3-1.png)
 
 ---
 
